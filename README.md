@@ -25,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ### Links
-- Solution URL: [On github](https://your-solution-url.com)
+- Solution URL: [On github]([https://your-solution-url.com](https://github.com/escannord/qr-code-component-main))
 - Live preview URL: [Live preview](https://your-live-site-url.com)
 
 ## My process
@@ -36,7 +36,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - CSS Grid
 - Mobile-first workflow
-- google fonts family ``outfilt``
+- google fonts family ``outfit``
 
 
 
